@@ -20,7 +20,7 @@ h6{
 	font-weight: 700;
 }
 .main{
-	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/images/pexels-alex-qian-2343465.jpg) no-repeat;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(../images/pexels-alex-qian-2343465.jpg) no-repeat;
 	background-size:100% 100%;
 	object-fit: cover;
 	width: 100%;
