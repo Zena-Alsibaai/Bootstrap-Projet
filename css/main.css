@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-family: "Merriweather";
+}
+
+h6{
+	font-weight: bold;
+}
+.nav-link{
+	color: #000;
+	font-weight: 600;
+
+}
+.navbar-brand{
+	color: #000;
+	font-weight: 700;
+}
+.main{
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/images/pexels-alex-qian-2343465.jpg) no-repeat;
+	background-size:100% 100%;
+	object-fit: cover;
+	width: 100%;
+	height: 80vh;
+}
+.main h1{
+	font-size: 4rem;
+	font-weight: 700;
+}
+.card{
+	border: none;
+}
+.main select{
+	height: 40px;
+	width: 90%;
+	outline: none;
+	padding: 0 20px;
+}
+.main span{
+	color: gray;
+	font-weight: 600;
+}
+.main .btn1{
+	background-color: coral;
+	color: #fff;
+	outline: none;
+	border: none;
+	width: 90%;
+	height: 40px;
+	margin-top: 32px;
+}
+.btn:hover{
+	background: tomato;
+	transition: 0.5s;
+}
+.land{
+	background: rgb(214, 214, 214);
+}
+.land .btn2{
+	background: #000;
+	color: #fff;
+	height: 45px;
+	width: 200px;
+	outline: none;
+	border: none;
+}
+.rent{
+	background: rgb(238, 235, 235);
+}
+ .btnc{
+	height: 45px;
+	width: 150px;
+	background: #fff;
+	color: #000;
+	outline: none;
+	border: none;
+	border-radius: 5px;
+	position: absolute;
+	left: 30%;
+	top: 20%;
+	padding: 10px;
+	font-weight: 500;
+}
+.home{
+	background:rgb(238, 235, 235);
+
+}
+.home h1{
+	font-weight: 700;
+}
+.home .btnf{
+	background: #000;
+	color: #fff;
+	height: 45px;
+	width:200px;
+	outline: none;
+	border: none;
+	display: inline-block;
+}
+.contact{
+	background: rgb(179, 179, 179);
+}
+.contact .btnf{
+	background: #000;
+	color: #fff;
+	height: 45px;
+	width:200px;
+	outline: none;
+	border: none;
+	display: inline-block;
+}
+footer{
+	background: #000;
+	color: #fff;
+}
+.fab{
+	font-size: 25px;
+	color: gray;
+}
+.fab:hover{
+	color: #fff;
+	transition: 0.5s;
+}
