@@ -53,14 +53,14 @@ h6{
 	margin-top: 32px;
 }
 .btn:hover{
-	background: tomato;
+	background-color: tomato;
 	transition: 0.5s;
 }
 .land{
-	background: rgb(214, 214, 214);
+	background-color: rgb(214, 214, 214);
 }
 .land .btn2{
-	background: #000;
+	background-color: #000;
 	color: #fff;
 	height: 45px;
 	width: 200px;
@@ -68,12 +68,12 @@ h6{
 	border: none;
 }
 .rent{
-	background: rgb(238, 235, 235);
+	background-color: rgb(238, 235, 235);
 }
  .btnc{
 	height: 45px;
 	width: 150px;
-	background: #fff;
+	background-color: #fff;
 	color: #000;
 	outline: none;
 	border: none;
@@ -85,14 +85,14 @@ h6{
 	font-weight: 500;
 }
 .home{
-	background:rgb(238, 235, 235);
+	background-color:rgb(238, 235, 235);
 
 }
 .home h1{
 	font-weight: 700;
 }
 .home .btnf{
-	background: #000;
+	background-color: #000;
 	color: #fff;
 	height: 45px;
 	width:200px;
@@ -101,10 +101,10 @@ h6{
 	display: inline-block;
 }
 .contact{
-	background: rgb(179, 179, 179);
+	background-color: rgb(179, 179, 179);
 }
 .contact .btnf{
-	background: #000;
+	background-color: #000;
 	color: #fff;
 	height: 45px;
 	width:200px;
@@ -113,7 +113,7 @@ h6{
 	display: inline-block;
 }
 footer{
-	background: #000;
+	background-color: #000;
 	color: #fff;
 }
 .fab{
